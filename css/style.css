@@ -13,9 +13,9 @@ p{
 ul{
     line-height: 40px;
 }
-.facts{
+#facts{
     color: red;
 }
-p.facts{
+p#facts{
     color: rgb(6, 100, 3);
 }
