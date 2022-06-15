@@ -21,10 +21,16 @@ p#facts{
 }
 .casserole{
     color:purple;
+    border: 2px solid purple;
 }
 .sauce{
     color:blue;
+    border: 2px solid blue;
 }
 .nature{
     background-color:rgb(244, 248, 7);
+}
+.p1{
+    float: left;
+    text-align: left;
 }
